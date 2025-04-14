@@ -56,7 +56,7 @@ int main() {
     //use either union by size or by rank
     // don't intermix
 //*kruskal implementation*;
-// input in the form of edges - vector - of vector of size 3 - w,u,v
+
 int v=9;
 //vertex=9 lets suppose
 vector<vector<int>> edges(v,vector<int>(3));
